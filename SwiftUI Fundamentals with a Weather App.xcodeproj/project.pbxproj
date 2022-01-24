@@ -11,6 +11,7 @@
 		7D300A9A2785EB79002DB54F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D300A992785EB79002DB54F /* ContentView.swift */; };
 		7D300A9C2785EB7C002DB54F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D300A9B2785EB7C002DB54F /* Assets.xcassets */; };
 		7D300A9F2785EB7C002DB54F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D300A9E2785EB7C002DB54F /* Preview Assets.xcassets */; };
+		7D300AA62785EBE6002DB54F /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D300AA52785EBE6002DB54F /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7D300A992785EB79002DB54F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7D300A9B2785EB7C002DB54F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D300A9E2785EB7C002DB54F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7D300AA52785EBE6002DB54F /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				7D300A992785EB79002DB54F /* ContentView.swift */,
 				7D300A9B2785EB7C002DB54F /* Assets.xcassets */,
 				7D300A9D2785EB7C002DB54F /* Preview Content */,
+				7D300AA52785EBE6002DB54F /* WeatherButton.swift */,
 			);
 			path = "SwiftUI Fundamentals with a Weather App";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				7D300A9A2785EB79002DB54F /* ContentView.swift in Sources */,
 				7D300A982785EB79002DB54F /* SwiftUI_Fundamentals_with_a_Weather_AppApp.swift in Sources */,
+				7D300AA62785EBE6002DB54F /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
